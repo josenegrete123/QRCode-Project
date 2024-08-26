@@ -63,6 +63,7 @@ html {
     justify-content: center;
     align-items: center;
     background-color: var(--slate-300);
+    margin-block-start: 10em;
 }
 
 .attribution {
