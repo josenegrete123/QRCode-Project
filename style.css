@@ -51,7 +51,7 @@ body {
     display: flex;
     flex-direction: column;
     background: var(--background);
-    width: 280px;
+    max-width: 280px;
     height: 500px;
     padding: 1rem;
     border-radius: 0.5em;
@@ -59,8 +59,7 @@ body {
     position: fixed;
     top: 50%;
     left: 50%;
-    margin-top: -140px;
-    margin-left: -250px;
+    transform: translate(-50%, -50%);
 }
 
 html {
