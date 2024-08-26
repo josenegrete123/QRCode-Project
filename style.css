@@ -49,7 +49,6 @@
 
 body {
     display: flex;
-    flex-direction: column;
     background: var(--background);
     max-width: 280px;
     height: 500px;
