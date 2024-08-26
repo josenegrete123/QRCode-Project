@@ -46,6 +46,7 @@
 /* QR Code */
 
 .qr-image {
+    display: flex;
     background-image: url("./images/image-qr-code.png");
     width: 288px;
     height: 270px;
@@ -53,6 +54,8 @@
     background-repeat: no-repeat;
     border-radius: 0.5em;
     padding: 0.5em;
+    justify-content: center;
+    align-items: center;
 }
 
 main {
