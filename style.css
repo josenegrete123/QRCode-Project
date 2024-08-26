@@ -13,6 +13,11 @@
     --spacing-500: 40px;
 }
 
+.inner-text {
+    width: 288px;
+    height: 131px;
+}
+
 .outfit-regular {
     font-family: "Outfit", sans-serif;
     font-weight: 400;
@@ -42,8 +47,8 @@
 
 .qr-image {
     background-image: url("./images/image-qr-code.png");
-    width: auto;
-    min-height: 65%;
+    width: 288px;
+    height: 288px;
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 0.5em;
@@ -54,8 +59,8 @@ main {
     display: flex;
     flex-direction: column;
     background: var(--background);
-    max-width: 290px;
-    height: 450px;
+    max-width: 300px;
+    height: 475px;
     padding: 1rem;
     border-radius: 0.5em;
 
@@ -77,6 +82,7 @@ html {
 .attribution {
     font-size: 11px;
     text-align: center;
+    margin-block-start: 1.5rem;
 }
 
 .attribution a {
