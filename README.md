@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com/josenegrete123/QRCode-Project)
+- Solution URL: ( https://www.frontendmentor.io/solutions/qr-code-using-css-styles-RQqlFprBoN)
 - Live Site URL: (https://josenegrete123.github.io/QRCode-Project/)
 
 ## My process
